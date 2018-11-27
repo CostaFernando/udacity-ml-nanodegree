@@ -1,4 +1,4 @@
-# Engenheiro de Machine Learning Nanodegree
+# Engenheiro de Machine Learning Nanodegree Udacity
 Projetos do Nanodegree Engenheiro de Machine Learning da Udacity.
 
 1) Titanic Survival Exploration (Decision Tree)
